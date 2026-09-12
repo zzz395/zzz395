@@ -31,7 +31,7 @@ Flask and MySQL academic management system supporting student records, enrollmen
 
 ## Technologies
 
-**Languages:** TypeScript · Python · SQL · JavaScript
+**Languages:** TypeScript · Python · SQL · JavaScript · Java · C/C++
 
 **Frontend:** React · Vite · HTML/CSS
 
